@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "litestar-org",
+  "repo": "polyfactory-docs-preview",
+  "versions": [
+    {
+      "commit": "b0f98d70e0c1a20d602aa6a03569e16cc361d000",
+      "parsed_at": "2026-11-07T01:25:45.425342+00:00",
+      "filetree": "filetree/b0f98d70e0c1a20d602aa6a03569e16cc361d000.nq.gz",
+      "blobs": [
+        "blob/6ab8878744ebafd301c2423d97831b2c2db272b6.nq.gz",
+        "blob/63bdd55c99bad1dac438fe85722fe4f9b64c1674.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/a7052bbc525b89b30dd43a7ab7d75d50ad97fc70.nq.gz",
+        "blob/aff5b386a12f758f00f1946676c798be15904b8b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
